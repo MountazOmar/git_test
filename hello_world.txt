@@ -1,1 +1,2 @@
 bunch of text to test git commits and staging 
+test
